@@ -1,0 +1,4 @@
+bioformats
+javabridge
+tifffile
+numpy
